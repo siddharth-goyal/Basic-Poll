@@ -1,0 +1,14 @@
+.vscode/
+__pycache__/
+todo_env/
+bin/
+include/
+lib/
+*.cfg
+.DS_Store
+*.py
+!main.py
+!schema.py
+!crud.py
+!database.py
+!models.py
